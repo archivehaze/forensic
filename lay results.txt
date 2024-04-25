@@ -1,0 +1,124 @@
+Document with negative sentiment: 1015_
+{'neg': 0.02, 'neu': 0.98, 'pos': 0.0, 'compound': -0.5574}
+[('enron.com', 29), ('call', 3), ('dabhol', 2), ('task', 2), ('force', 2), ('loretta.brelsford', 2), ('connie.blackwood', 2), ('debra.hicks', 2), ('wendi.hoelscher', 2), ('sandy.hoelscher', 2)]
+Document with negative sentiment: 1018_
+{'neg': 0.008, 'neu': 0.992, 'pos': 0.0, 'compound': -0.128}
+[('``', 14), ("''", 14), ('verizon.com', 7), ('telcordia.com', 7), ('enron.com', 7), ('compaq.com', 4), ('lifefx.com', 4), ('airmail.net', 4), ('iname.com', 3), ('kpcb.com', 3)]
+Document with negative sentiment: 1032_
+{'neg': 0.007, 'neu': 0.986, 'pos': 0.007, 'compound': -0.25}
+[('enron.com', 108), ('brown', 4), ('mark', 4), ('l', 4), ('kathy', 4), ('james', 3), ('david', 3), ('jeffrey', 3), ('mcmahon', 3), ('jennifer', 3)]
+Document with negative sentiment: 103_
+{'neg': 0.058, 'neu': 0.923, 'pos': 0.018, 'compound': -0.4215}
+[('helpdesk', 5), ('enron.com', 4), ('mailman.enron.com', 3), ('subject', 2), ('request', 2), ('kenneth_lay', 2), ('n/a', 2), ('message-id', 1), ('29208622.1075840203278.javamail.evans', 1), ('thyme', 1)]
+Document with negative sentiment: 1051_
+{'neg': 0.056, 'neu': 0.919, 'pos': 0.025, 'compound': -0.3182}
+[('bennis', 3), ('txoga.org', 3), ('legislative', 3), ('digest', 3), ("''", 3), ('enron.com', 2), ('subject', 2), ('bill', 2), ('ennis', 2), ('message-id', 1)]
+Document with negative sentiment: 1068_
+{'neg': 0.098, 'neu': 0.833, 'pos': 0.068, 'compound': -0.8336}
+[('--', 34), ('enron.com', 5), ('inequality', 5), ('dornbusch', 4), ('income', 4), ('pricing', 4), ('aids', 4), ('medications', 4), ('human', 3), ('scale', 3)]
+Document with negative sentiment: 1086_
+{'neg': 0.079, 'neu': 0.921, 'pos': 0.0, 'compound': -0.3818}
+[('enron.com', 2), ('eric', 2), ('message-id', 1), ('13554092.1075840289814.javamail.evans', 1), ('thyme', 1), ('date', 1), ('tue', 1), ('apr', 1), ('03:53:00', 1), ('-0700', 1)]
+Document with negative sentiment: 110_
+{'neg': 0.076, 'neu': 0.88, 'pos': 0.044, 'compound': -0.2732}
+[('meeting', 3), ('mbartley', 2), ('asiasoc.org', 2), ('asia', 2), ('society', 2), ('annual', 2), ('board', 2), ('october', 2), ('rosalee', 2), ('ken', 2)]
+Document with negative sentiment: 132_
+{'neg': 0.046, 'neu': 0.912, 'pos': 0.043, 'compound': -0.0516}
+[('lizard_ar', 2), ('yahoo.com', 2), ('klay', 2), ('enron.com', 2), ('lay', 2), ('format', 2), ('yahoo', 2), ('message-id', 1), ('31145504.1075840203964.javamail.evans', 1), ('thyme', 1)]
+Document with negative sentiment: 250_
+{'neg': 0.055, 'neu': 0.89, 'pos': 0.056, 'compound': -0.2263}
+[('enron.com', 3), ('lay', 3), ('houston', 3), ('lecture', 2), ('event', 2), ('december', 2), ('13th', 2), ('rob', 2), ('bradley', 2), ('smith', 2)]
+Document with negative sentiment: 284_
+{'neg': 0.02, 'neu': 0.98, 'pos': 0.0, 'compound': -0.0772}
+[('reschedule', 3), ('appointment', 3), ('dpeppers', 2), ('flashfind.com', 2), ('rosalee', 2), ('message-id', 1), ('28036446.1075840208098.javamail.evans', 1), ('thyme', 1), ('date', 1), ('fri', 1)]
+Document with negative sentiment: 303_
+{'neg': 0.117, 'neu': 0.858, 'pos': 0.024, 'compound': -0.9837}
+[('tax', 11), ('foundation', 5), ('taxes', 5), ('moody', 4), ('small', 4), ('fleenor', 4), ('rogers', 3), ('taxfoundation.org', 3), ('september', 3), ('economist', 3)]
+Document with negative sentiment: 30_
+{'neg': 0.065, 'neu': 0.87, 'pos': 0.065, 'compound': -0.6124}
+[('wwf', 5), ('enron', 3), ('meeting', 3), ('staff', 3), ('situation', 2), ('group', 2), ('back', 2), ('shell', 2), ('agenda', 2), ('go', 2)]
+Document with negative sentiment: 315_
+{'neg': 0.017, 'neu': 0.983, 'pos': 0.0, 'compound': -0.6249}
+[('enron.com', 32), ('--', 24), ('enron', 3), ('vanessa', 3), ('mark', 3), ('gavyn.davies', 2), ('gs.com', 2), ('pghemawat', 2), ('hbs.edu', 2), ('bgrady', 2)]
+Document with negative sentiment: 439_
+{'neg': 0.047, 'neu': 0.917, 'pos': 0.036, 'compound': -0.8224}
+[('october', 10), ('university', 9), ('a.m.', 7), ('policy', 4), ('book', 4), ('forum', 4), ('trade', 4), ('defense', 4), ('event', 3), ('aei', 3)]
+Document with negative sentiment: 450_
+{'neg': 0.041, 'neu': 0.915, 'pos': 0.044, 'compound': -0.1531}
+[('enron.com', 8), ('utc', 3), ('harold.buchanan', 2), ('marty.sunde', 2), ('michael.jackson', 2), ('michael', 2), ('harold', 2), ('buchanan', 2), ('kent', 2), ('brittan', 2)]
+Document with negative sentiment: 463_
+{'neg': 0.067, 'neu': 0.888, 'pos': 0.045, 'compound': -0.8602}
+[('reports', 8), ('edt', 6), ('5-oct-00', 6), ('compaq', 6), ('compaq.com', 5), ('analysts', 4), ('dell', 4), ('analyst', 4), ('elizabeth.davis', 3), ('10.05.00', 3)]
+Document with negative sentiment: 488_
+{'neg': 0.096, 'neu': 0.808, 'pos': 0.095, 'compound': -0.2732}
+[('talk', 4), ('enron.com', 2), ('rob', 2), ('``', 2), ("''", 2), ('new', 2), ('message-id', 1), ('17648350.1075840213627.javamail.evans', 1), ('thyme', 1), ('date', 1)]
+Document with negative sentiment: 527_
+{'neg': 0.081, 'neu': 0.84, 'pos': 0.078, 'compound': -0.7509}
+[('--', 282), ("''", 26), ('independent', 21), ('http', 16), ('government', 15), ('institute', 13), ('see', 13), ('public', 12), ("'s", 11), ('health', 11)]
+Document with negative sentiment: 552_
+{'neg': 0.059, 'neu': 0.919, 'pos': 0.022, 'compound': -0.886}
+[('=20', 15), ('corzine', 11), ('new', 8), ("'s", 7), ('spending', 7), ('rlc', 5), ('jersey', 5), ('``', 5), ('money', 4), ('jon', 4)]
+Document with negative sentiment: 566_
+{'neg': 0.038, 'neu': 0.962, 'pos': 0.0, 'compound': -0.3612}
+[('pulse', 4), ('enron', 4), ('time', 3), ('subject', 2), ("'s", 2), ('almost', 2), ('message-id', 1), ('8005532.1075840215901.javamail.evans', 1), ('thyme', 1), ('date', 1)]
+Document with negative sentiment: 579_
+{'neg': 0.032, 'neu': 0.968, 'pos': 0.0, 'compound': -0.3412}
+[('savont', 2), ('email.msn.com', 2), ('klay', 2), ('enron.com', 2), ('subject', 2), ('``', 2), ("''", 2), ('news', 2), ('message-id', 1), ('25412513.1075840216220.javamail.evans', 1)]
+Document with negative sentiment: 618_
+{'neg': 0.126, 'neu': 0.771, 'pos': 0.103, 'compound': -0.9881}
+[('--', 282), ("''", 24), ('``', 20), ('independent', 18), ('http', 16), ('see', 14), ('institute', 13), ('medicare', 13), ("'s", 9), ('lighthouse', 8)]
+Document with negative sentiment: 666_
+{'neg': 0.054, 'neu': 0.903, 'pos': 0.043, 'compound': -0.5082}
+[('corzine', 10), ('new', 9), ('jersey', 6), ("'s", 6), ("''", 6), ('rlc', 5), ('taxpayers', 5), ('tv', 4), ('buy', 4), ('``', 4)]
+Document with negative sentiment: 682_
+{'neg': 0.248, 'neu': 0.662, 'pos': 0.09, 'compound': -0.9921}
+[('kuti', 4), ('bean', 4), ('job', 4), ('enron.com', 3), ('company', 3), ('enron', 3), ('compliance', 3), ('help', 3), ('supervisor', 3), ('jean', 3)]
+Document with negative sentiment: 697_
+{'neg': 0.227, 'neu': 0.682, 'pos': 0.092, 'compound': -0.9936}
+[('--', 12), ('kuti', 7), ('company', 6), ('subject', 5), ('policies', 5), ('violations', 5), ('report', 4), ('d-adam', 4), ('bean', 4), ('job', 4)]
+Document with negative sentiment: 69_
+{'neg': 0.103, 'neu': 0.824, 'pos': 0.074, 'compound': -0.4588}
+[('enron.com', 4), ('delay', 3), ('know', 3), ('ken', 3), ('tom', 2), ('joe', 2), ('meeting', 2), ("'s", 2), ('message-id', 1), ('19320273.1075840202443.javamail.evans', 1)]
+Document with negative sentiment: 770_
+{'neg': 0.059, 'neu': 0.896, 'pos': 0.045, 'compound': -0.4019}
+[('meeting', 3), ('enron.com', 2), ('bcca', 2), ('today', 2), ('rob', 2), ('business', 2), ('suggested', 2), ('total', 2), ('enron', 2), ('list', 2)]
+Document with negative sentiment: 774_
+{'neg': 0.059, 'neu': 0.905, 'pos': 0.037, 'compound': -0.5719}
+[('enron.com', 8), ('meeting', 4), ('dennis', 3), ('vegas', 3), ('david', 3), ('haug', 3), ('presentation', 2), ('dennis.vegas', 2), ('david.haug', 2), ('alhamd.alkhayat', 2)]
+Document with negative sentiment: 830_
+{'neg': 0.047, 'neu': 0.922, 'pos': 0.03, 'compound': -0.3182}
+[('jhdiv', 2), ('binswanger.com', 2), ('klay', 2), ('enron.com', 2), ('holmes', 2), ('davis', 2), ('message-id', 1), ('9191096.1075840223532.javamail.evans', 1), ('thyme', 1), ('date', 1)]
+Document with negative sentiment: 842_
+{'neg': 0.027, 'neu': 0.973, 'pos': 0.0, 'compound': -0.4588}
+[('rff.org', 10), ('``', 9), ("''", 9), ('creedon', 3), ('blake', 3), ('ray', 3), ('portney', 3), ('doyle', 3), ('goparks.org', 3), ('verizon.net', 3)]
+Document with negative sentiment: 846_
+{'neg': 0.11, 'neu': 0.774, 'pos': 0.116, 'compound': -0.3798}
+[('foreign', 16), ('investment', 14), ('countries', 14), ('trade', 11), ('international', 10), ('corporations', 10), ('world', 9), ('economy', 8), ('global', 7), ('many', 7)]
+Document with negative sentiment: 872_
+{'neg': 0.063, 'neu': 0.885, 'pos': 0.052, 'compound': -0.5574}
+[('devaluation', 8), ('enron.com', 7), ('enron', 7), ('would', 7), ('currency', 5), ('convertibility', 4), ('law', 4), ('use', 4), ('functional', 4), ('argentina', 3)]
+Document with negative sentiment: 878_
+{'neg': 0.063, 'neu': 0.876, 'pos': 0.061, 'compound': -0.3553}
+[('enron', 28), ('powerex', 22), ('power', 19), ("'s", 18), ('enron.com', 15), ('price', 15), ("''", 15), ('pool', 13), ('``', 13), ('said', 12)]
+Document with negative sentiment: 880_
+{'neg': 0.104, 'neu': 0.838, 'pos': 0.059, 'compound': -0.6486}
+[('enron.com', 4), ('remarks', 2), ('ees', 2), ('alhamd.alkhayat', 2), ('rob', 2), ('brief', 2), ('enron', 2), ('message-id', 1), ('15544327.1075840224927.javamail.evans', 1), ('thyme', 1)]
+Document with negative sentiment: 912_
+{'neg': 0.078, 'neu': 0.859, 'pos': 0.063, 'compound': -0.2885}
+[('``', 10), ("''", 10), ('compaq.com', 7), ('--', 4), ('verizon.com', 3), ('iname.com', 3), ('telcordia.com', 3), ('enron.com', 3), ('kpcb.com', 3), ('worldnet.att.net', 3)]
+Document with negative sentiment: 918_
+{'neg': 0.11, 'neu': 0.789, 'pos': 0.101, 'compound': -0.9448}
+[('--', 241), ('=20', 26), ("''", 23), ('``', 16), ('http', 12), ('electricity', 11), ('institute', 10), ("'s", 10), ('justice', 10), ('independent', 10)]
+Document with negative sentiment: 960_
+{'neg': 0.059, 'neu': 0.919, 'pos': 0.022, 'compound': -0.5267}
+[('columbia', 3), ('river', 3), ('area', 3), ('magnolia3', 2), ('earthlink.net', 2), ('klay', 2), ('enron.com', 2), ('gorge', 2), ('wind', 2), ('power', 2)]
+Document with negative sentiment: 964_
+{'neg': 0.056, 'neu': 0.908, 'pos': 0.036, 'compound': -0.765}
+[('=02=05', 13), ('--', 6), ("'s", 5), ('legacy', 5), ('washington', 4), ('clinton', 4), ('issue', 3), ('u.s.', 3), ('world', 3), ('aids', 3)]
+Document with negative sentiment: 987_
+{'neg': 0.018, 'neu': 0.962, 'pos': 0.02, 'compound': -0.3612}
+[('enron.com', 37), ('loretta.brelsford', 3), ('call', 3), ('friday', 2), ('dabhol', 2), ('task', 2), ('force', 2), ('connie.blackwood', 2), ('debra.hicks', 2), ('wendi.hoelscher', 2)]
+Document with negative sentiment: 992_
+{'neg': 0.021, 'neu': 0.966, 'pos': 0.012, 'compound': -0.7269}
+[('enron.com', 54), ('enron_development', 22), ('enron', 7), ('call', 5), ('loretta', 4), ('mohan', 4), ('sandeep', 4), ('loretta.brelsford', 3), ('friday', 3), ('dabhol', 3)]
+41
