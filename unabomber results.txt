@@ -1,0 +1,2 @@
+{'neg': 0.145, 'neu': 0.672, 'pos': 0.183, 'compound': 1.0}
+[('society', 223), ('system', 199), ('people', 196), ('power', 150), ('would', 142), ('human', 133), ('one', 130), ('technology', 120), ('modern', 93), ('may', 92)]
