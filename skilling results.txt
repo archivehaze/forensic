@@ -1,0 +1,118 @@
+Document with negative sentiment: 1267_
+{'neg': 0.153, 'neu': 0.769, 'pos': 0.078, 'compound': -0.9975}
+[('power', 24), ('india', 23), ('enron', 18), ("'s", 18), ("''", 16), ('``', 14), ('financial', 13), ('times', 12), ('per', 11), ('cent', 9)]
+Document with negative sentiment: 1272_
+{'neg': 0.155, 'neu': 0.738, 'pos': 0.108, 'compound': -0.9176}
+[('fire', 14), ('chief', 6), ('web', 5), ('page', 4), ('department', 4), ('jan', 3), ('enron.com', 3), ('well', 3), ('today', 3), ('lisa', 2)]
+Document with negative sentiment: 1322_
+{'neg': 0.017, 'neu': 0.968, 'pos': 0.015, 'compound': -0.1027}
+[('enron.com', 8), ('smith-graham.com', 5), ('eldoradocorp.com', 5), ('interview', 5), ('list', 3), ('eximenez', 3), ('debg', 3), ('pdq.net', 3), ('cgonzalez', 3), ('meeting', 3)]
+Document with negative sentiment: 1332_
+{'neg': 0.039, 'neu': 0.936, 'pos': 0.025, 'compound': -0.4215}
+[('enron.com', 8), ('smith-graham.com', 5), ('eldoradocorp.com', 5), ('min', 5), ('lanier', 4), ('hospital', 4), ("''", 4), ('downtown', 4), ('eximenez', 3), ('debg', 3)]
+Document with negative sentiment: 1344_
+{'neg': 0.128, 'neu': 0.766, 'pos': 0.106, 'compound': -0.9702}
+[('=20', 40), ('california', 20), ('market', 16), ('power', 14), ('state', 14), ('customers', 13), ('demand', 11), ('spot', 9), ('utilities', 9), ('price', 8)]
+Document with negative sentiment: 1360_
+{'neg': 0.096, 'neu': 0.854, 'pos': 0.051, 'compound': -0.8555}
+[("''", 5), ('lwitt', 3), ('netbotz.com', 3), ('quote', 3), ('ecompany', 3), ('``', 3), ('lynne', 3), ('witt', 3), ('contact', 3), ('skilling', 3)]
+Document with negative sentiment: 1393_
+{'neg': 0.13, 'neu': 0.839, 'pos': 0.031, 'compound': -0.7717}
+[('enron.com', 4), ('alarm', 2), ('sherri.sera', 2), ('alan', 2), ('skilling', 2), ('message-id', 1), ('32213628.1075845488753.javamail.evans', 1), ('thyme', 1), ('date', 1), ('thu', 1)]
+Document with negative sentiment: 1480_
+{'neg': 0.106, 'neu': 0.792, 'pos': 0.102, 'compound': -0.0772}
+[('--', 7), ('enron.com', 3), ('bruce', 3), ('may', 2), ('subject', 2), ('smith', 2), ('message-id', 1), ('11762283.1075845490970.javamail.evans', 1), ('thyme', 1), ('date', 1)]
+Document with negative sentiment: 149_
+{'neg': 0.015, 'neu': 0.972, 'pos': 0.012, 'compound': -0.1779}
+[('enron.com', 43), ('ventures', 3), ('rebekah', 3), ('rushing', 3), ('david', 3), ('jeff', 3), ('rebekah.rushing', 2), ('ebs', 2), ('weekly', 2), ('deal', 2)]
+Document with negative sentiment: 1508_
+{'neg': 0.138, 'neu': 0.78, 'pos': 0.082, 'compound': -0.9358}
+[("'s", 14), ('driver', 13), ('officer', 9), ('car', 7), ('captain', 7), ('glove', 5), ('box', 5), ('gun', 5), ('trunk', 5), ('see', 4)]
+Document with negative sentiment: 1515_
+{'neg': 0.076, 'neu': 0.849, 'pos': 0.075, 'compound': -0.296}
+[('message', 7), ('murdock', 4), ('may', 3), ('enron.com', 3), ('mr.', 3), ('information', 3), ('eharris', 2), ('insightpartners.com', 2), ('jeff.skilling', 2), ('telephone', 2)]
+Document with negative sentiment: 1541_
+{'neg': 0.015, 'neu': 0.968, 'pos': 0.017, 'compound': -0.1531}
+[('enron.com', 33), ('enronxgate', 7), ('enron', 6), ('ect', 3), ('may', 2), ('mrudula.gadade', 2), ('dabhol', 2), ('taskforce', 2), ('call', 2), ('mrudula', 2)]
+Document with negative sentiment: 1562_
+{'neg': 0.118, 'neu': 0.882, 'pos': 0.0, 'compound': -0.9657}
+[('man', 10), ('wife', 9), ('officer', 7), ('going', 6), ('``', 4), ("''", 4), ("'m", 4), ('oh', 4), ('tail', 4), ('light', 4)]
+Document with negative sentiment: 1575_
+{'neg': 0.048, 'neu': 0.952, 'pos': 0.0, 'compound': -0.4215}
+[('enron.com', 3), ('stewart', 2), ('seeligson', 2), ('message-id', 1), ('24609060.1075845494905.javamail.evans', 1), ('thyme', 1), ('date', 1), ('wed', 1), ('may', 1), ('10:18:00', 1)]
+Document with negative sentiment: 181_
+{'neg': 0.015, 'neu': 0.972, 'pos': 0.012, 'compound': -0.1779}
+[('enron.com', 43), ('ventures', 3), ('rebekah', 3), ('rushing', 3), ('david', 3), ('jeff', 3), ('rebekah.rushing', 2), ('ebs', 2), ('deal', 2), ('tracking', 2)]
+Document with negative sentiment: 22_
+{'neg': 0.14, 'neu': 0.761, 'pos': 0.099, 'compound': -0.9889}
+[('aol.com', 24), ('hotmail.com', 10), ('one', 8), ('collapsed', 7), ('building', 6), ('people', 6), ('first', 5), ('around', 5), ('time', 5), ('though', 5)]
+Document with negative sentiment: 240_
+{'neg': 0.009, 'neu': 0.983, 'pos': 0.008, 'compound': -0.0688}
+[('``', 41), ("''", 41), ('aol.com', 16), ("'beta", 7), ('hosman', 6), ('miller', 5), ('hotmail.com', 4), ('morgankeegan.com', 4), ('flash.net', 4), ('mindspring.com', 4)]
+Document with negative sentiment: 242_
+{'neg': 0.007, 'neu': 0.993, 'pos': 0.0, 'compound': -0.1027}
+[('aol.com', 12), ('mindspring.com', 4), ('hotmail.com', 4), ('fredinvt', 2), ('juno.com', 2), ('akinpa', 2), ('email.msn.com', 2), ('williamhjordan', 2), ('jansson', 2), ('judgegyro', 2)]
+Document with negative sentiment: 254_
+{'neg': 0.014, 'neu': 0.98, 'pos': 0.005, 'compound': -0.7906}
+[('``', 48), ("''", 48), ('aol.com', 27), ("'beta", 14), ('hosman', 8), ('bill', 8), ('john', 8), ('miller', 7), ('mindspring.com', 6), ('hotmail.com', 6)]
+Document with negative sentiment: 255_
+{'neg': 0.014, 'neu': 0.978, 'pos': 0.008, 'compound': -0.6908}
+[('``', 48), ("''", 48), ('aol.com', 28), ("'beta", 14), ('hosman', 10), ('jim', 8), ('bill', 8), ('john', 8), ('miller', 7), ('mindspring.com', 6)]
+Document with negative sentiment: 256_
+{'neg': 0.008, 'neu': 0.992, 'pos': 0.0, 'compound': -0.5574}
+[('``', 48), ("''", 48), ('aol.com', 18), ("'beta", 7), ('hosman', 6), ('mindspring.com', 4), ('hotmail.com', 4), ('miller', 4), ('advlaser.com', 4), ('morgankeegan.com', 4)]
+Document with negative sentiment: 276_
+{'neg': 0.067, 'neu': 0.904, 'pos': 0.029, 'compound': -0.743}
+[('wed', 7), ('sep', 7), ("''", 6), ('-0500', 6), ('picture', 5), ('received', 5), ('montana', 4), ('forest', 4), ('fire', 4), ('``', 4)]
+Document with negative sentiment: 277_
+{'neg': 0.018, 'neu': 0.97, 'pos': 0.012, 'compound': -0.368}
+[('aol.com', 18), ('flash.net', 6), ('mindspring.com', 4), ('hotmail.com', 4), ('hosman', 4), ('fredinvt', 2), ('juno.com', 2), ('akinpa', 2), ('email.msn.com', 2), ('bwall', 2)]
+Document with negative sentiment: 287_
+{'neg': 0.014, 'neu': 0.978, 'pos': 0.007, 'compound': -0.3818}
+[('aol.com', 18), ('flash.net', 6), ('hosman', 5), ('tom', 5), ('john', 5), ('mindspring.com', 4), ('jansson', 3), ('shackleton', 3), ('benson', 3), ('dave', 3)]
+Document with negative sentiment: 291_
+{'neg': 0.017, 'neu': 0.983, 'pos': 0.0, 'compound': -0.6808}
+[('aol.com', 18), ('flash.net', 6), ('mindspring.com', 4), ('hosman', 4), ('...', 3), ('fredinvt', 2), ('juno.com', 2), ('akinpa', 2), ('email.msn.com', 2), ('bwall', 2)]
+Document with negative sentiment: 297_
+{'neg': 0.012, 'neu': 0.983, 'pos': 0.006, 'compound': -0.5106}
+[('aol.com', 27), ('flash.net', 9), ('mindspring.com', 6), ('hosman', 6), ('twa.com', 5), ('``', 5), ('geoff.anderson', 4), ('geoff', 4), ('...', 4), ('--', 4)]
+Document with negative sentiment: 299_
+{'neg': 0.023, 'neu': 0.965, 'pos': 0.012, 'compound': -0.8271}
+[("''", 56), ('``', 54), ('aol.com', 20), ("'beta", 7), ('hosman', 6), ('flash.net', 6), ('image', 6), ('bill', 5), ('hotmail.com', 4), ('miller', 4)]
+Document with negative sentiment: 300_
+{'neg': 0.028, 'neu': 0.958, 'pos': 0.014, 'compound': -0.8316}
+[('``', 56), ("''", 56), ('aol.com', 20), ("'beta", 7), ('hosman', 6), ('flash.net', 6), ('bill', 5), ('beta', 5), ('hotmail.com', 4), ('miller', 4)]
+Document with negative sentiment: 309_
+{'neg': 0.032, 'neu': 0.936, 'pos': 0.032, 'compound': -0.3387}
+[('``', 48), ("''", 48), ('aol.com', 36), ('flash.net', 12), ('mindspring.com', 8), ('hotmail.com', 8), ('hosman', 8), ('rharman', 6), ('bass-associates.com', 6), ('jansson', 5)]
+Document with negative sentiment: 358_
+{'neg': 0.063, 'neu': 0.885, 'pos': 0.052, 'compound': -0.5574}
+[('devaluation', 8), ('enron.com', 7), ('enron', 7), ('would', 7), ('currency', 5), ('convertibility', 4), ('law', 4), ('use', 4), ('functional', 4), ('argentina', 3)]
+Document with negative sentiment: 38_
+{'neg': 0.076, 'neu': 0.885, 'pos': 0.039, 'compound': -0.4215}
+[('ermak', 3), ('gte.net', 3), ('tomskilljr', 2), ('aol.com', 2), ('markskilling', 2), ('hotmail.com', 2), ('subject', 2), ('jeff.skilling', 2), ('enron.com', 2), ('message-id', 1)]
+Document with negative sentiment: 397_
+{'neg': 0.045, 'neu': 0.926, 'pos': 0.029, 'compound': -0.1027}
+[('clement', 2), ('netactive.co.za', 2), ('jeff.skilling', 2), ('enron.com', 2), ('details', 2), ('klm', 2), ('flight', 2), ('kl', 2), ('10/12', 2), ('agent', 2)]
+Document with negative sentiment: 403_
+{'neg': 0.018, 'neu': 0.962, 'pos': 0.02, 'compound': -0.3612}
+[('enron.com', 37), ('loretta.brelsford', 3), ('call', 3), ('friday', 2), ('dabhol', 2), ('task', 2), ('force', 2), ('connie.blackwood', 2), ('debra.hicks', 2), ('wendi.hoelscher', 2)]
+Document with negative sentiment: 445_
+{'neg': 0.02, 'neu': 0.98, 'pos': 0.0, 'compound': -0.5574}
+[('enron.com', 29), ('call', 3), ('dabhol', 2), ('task', 2), ('force', 2), ('loretta.brelsford', 2), ('connie.blackwood', 2), ('debra.hicks', 2), ('wendi.hoelscher', 2), ('sandy.hoelscher', 2)]
+Document with negative sentiment: 452_
+{'neg': 0.038, 'neu': 0.962, 'pos': 0.0, 'compound': -0.34}
+[('enron.com', 6), ('sherri.sera', 2), ('katherine.brown', 2), ('jeff', 2), ('message-id', 1), ('1791474.1075840079748.javamail.evans', 1), ('thyme', 1), ('date', 1), ('tue', 1), ('dec', 1)]
+Document with negative sentiment: 490_
+{'neg': 0.007, 'neu': 0.986, 'pos': 0.007, 'compound': -0.25}
+[('enron.com', 108), ('brown', 4), ('mark', 4), ('l', 4), ('kathy', 4), ('james', 3), ('david', 3), ('jeffrey', 3), ('mcmahon', 3), ('jennifer', 3)]
+Document with negative sentiment: 49_
+{'neg': 0.067, 'neu': 0.832, 'pos': 0.102, 'compound': -0.0516}
+[('enron.com', 25), ('transactions', 11), ('number', 9), ('gross', 6), ('notional', 6), ('value', 6), ('volume', 5), ('date', 4), ('mark', 4), ('mwh=01', 4)]
+Document with negative sentiment: 63_
+{'neg': 0.061, 'neu': 0.901, 'pos': 0.039, 'compound': -0.5719}
+[('ect', 19), ('enron', 7), ('report', 4), ('carrie', 4), ('mark', 4), ('management', 3), ('southard', 3), ('enron.com', 2), ('subject', 2), ('february', 2)]
+Document with negative sentiment: 94_
+{'neg': 0.094, 'neu': 0.852, 'pos': 0.053, 'compound': -0.6788}
+[('greg', 6), ('tickets', 4), ('friday', 4), ('...', 4), ("n't", 4), ('subject', 3), ('night', 3), ('thanks', 3), ("'s", 3), ('know', 3)]
+39
